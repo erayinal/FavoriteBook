@@ -23,14 +23,14 @@ struct FavoriteElements: Identifiable{
 }
 
 
-let var1 = FavoriteElements(name: "G63", imagename: "g63", description: "Amazing car that I love")
+let var1 = FavoriteElements(name: "G63", imagename: "g63", description: "Max Power: 430 kW (585 PS) \nMax Torque: 850 Nm \n0-100(Second): 4,5s \nMax Speed: 149mph (240km/h)")
 let var2 = FavoriteElements(name: "BMW M4", imagename: "bmwM4", description: "Amazing car")
 
 let FavoriteCars = FavoriteModel(title: "Favorite Cars", elements: [var1, var2])
 
 
 let var3 = FavoriteElements(name: "Black List", imagename: "blackList", description: "10 Season")
-let var4 = FavoriteElements(name: "Dark", imagename: "dark", description: "3 Season")
+let var4 = FavoriteElements(name: "Dark", imagename: "dark", description: "The story follows characters from the fictional town of Winden, Germany, as they pursue the truth in the aftermath of a child's disappearance(3 Season)")
 let var5 = FavoriteElements(name: "Vikings", imagename: "vikings", description: "6 Season")
 let var6 = FavoriteElements(name: "Narcos", imagename: "narcos", description: "3 Season")
 

@@ -22,7 +22,7 @@ struct ContentView: View {
                         ForEach(favorite.elements){ element in
                             
                             //..4 Navigation
-                            NavigationLink(destination: DetailsView()) {
+                            NavigationLink(destination: DetailsView(chosenFavoriteElement: element)) {
                                 Text(element.name)
                             }
                             
@@ -32,7 +32,9 @@ struct ContentView: View {
                 }
                 
             }
-        }.navigationTitle("Favorite Book")
+        }.navigationTitle("Favorite Book") //...4 Burada da En üste yazılacak başlığı bu şekilde ekleyebiliriz
+        
+        //5 Şimdi DetailsView'e geçelim
         
     }
 }

@@ -57,10 +57,10 @@
 			children = (
 				E8B9E30D2BB1B17F00B1C409 /* FavoriteBookApp.swift */,
 				E8B9E30F2BB1B17F00B1C409 /* ContentView.swift */,
+				E8C6D4562BB85F89003E85CB /* DetailsView.swift */,
 				E8B9E3112BB1B18000B1C409 /* Assets.xcassets */,
 				E8B9E3132BB1B18000B1C409 /* Preview Content */,
 				E8B9E31B2BB1B1C800B1C409 /* FavoriteModel.swift */,
-				E8C6D4562BB85F89003E85CB /* DetailsView.swift */,
 			);
 			path = FavoriteBook;
 			sourceTree = "<group>";
