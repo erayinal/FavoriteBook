@@ -1,5 +1,5 @@
 # Favorite Book
-Favorite Book is a simple and intuitive iOS app developed with SwiftUI, designed to help users track and manage their favorite books and movies etc. Favorite Book provides a seamless way to keep all your favorites at your fingertips.
+Favorite Book is a simple and intuitive iOS app developed with **SwiftUI**, designed to help users track and manage their favorite books and movies etc. Favorite Book provides a seamless way to keep all your favorites at your fingertips.
 
 
 ## Features
