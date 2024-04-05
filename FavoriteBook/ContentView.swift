@@ -31,8 +31,8 @@ struct ContentView: View {
                     }
                 }
                 
-            }
-        }.navigationTitle("Favorite Book") //...4 Burada da En üste yazılacak başlığı bu şekilde ekleyebiliriz
+            }.navigationTitle("Favorite Book") //...4 Burada da En üste yazılacak başlığı bu şekilde ekleyebiliriz
+        }
         
         //5 Şimdi DetailsView'e geçelim
         
